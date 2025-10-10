@@ -1,0 +1,16 @@
+{
+    "git.openRepositoryInParentFolders": "never",
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "typescript": false
+    },
+    "editor.tabSize": 2,
+    "go.toolsManagement.autoUpdate": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always",
+    },
+}
