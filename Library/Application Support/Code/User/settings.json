@@ -13,4 +13,9 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "always",
     },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "workbench.colorTheme": "Default High Contrast",
+    "javascript.autoClosingTags": false,
+    "typescript.autoClosingTags": false
 }
